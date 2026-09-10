@@ -2,7 +2,7 @@
 title: "LLMに『かゆいうま』を書かせたら、存在しないKubernetesクラスタを破壊し始めた"
 emoji: "🐾"
 type: "tech"
-topics: ["LLM", "生成AI", "Kubernetes", "PyTorch", "AIエージェント"]
+topics: ["llm", "generativeai", "kubernetes", "pytorch", "aiagent"]
 published: false
 ---
 
